@@ -1,0 +1,7 @@
+[http "https://gitlab.si.lan"]
+	sslVerify = false
+[user]
+	email = jamartin@si.lan
+	name = Jake Martin
+[core]
+	excludesFile = .tags
